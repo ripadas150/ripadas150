@@ -29,10 +29,10 @@ Skills:  programming,HTML,CSS,C language,C++,Data Structure,Algorithm,OOP(python
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ripadas-150&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ripadas-150)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ripadas-150)   -->
 
-![GitHub metrics](https://metrics.lecoq.io/ripadas-150)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/ripadas-150)   -->
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ripadas-150)  
 
-![Profile views](https://gpvc.arturio.dev/ripadas-150)  
+<!-- ![Profile views](https://gpvc.arturio.dev/ripadas-150)   -->
